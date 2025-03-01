@@ -1,7 +1,7 @@
 # **Clustering Algorithms: K-means, K-means++, and SymNMF**  
 
 ## **Overview**  
-This project explores various clustering algorithms, including **K-means**, **K-means++**, and **Symmetric Nonnegative Matrix Factorization (SymNMF)**. Implementations are provided in **Python** and **C**, with optimizations using the **C API** for efficiency.  
+This project explores 3 clustering algorithms: **K-means**, **K-means++**, and **Symmetric Nonnegative Matrix Factorization (SymNMF)**. Implementations are provided in **Python** and **C**, with optimizations using the **C API** for efficiency.  
 
 ## **Project Structure**  
 - **`1. K-means/`** – Implementation of the **K-means algorithm** in both **Python** and **C**.  
